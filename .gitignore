@@ -56,3 +56,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Pycharm
+.idea
+
+# Scrapy
+.scrapy
+
+# wordlist
+*.csv
